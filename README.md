@@ -2,3 +2,6 @@
 ## By James Spencer
 
 more details soon!
+
+#### nitty gritty
+Please note all slide content and descriptions are owned by their creator
