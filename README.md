@@ -7,3 +7,5 @@ more details soon!
 
 #### nitty gritty
 Please note all slide content and descriptions are owned by their creator
+
+Swipe.to logo is owned Swipe.to
