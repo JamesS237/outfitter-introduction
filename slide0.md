@@ -1,2 +1,0 @@
-# Outfitter
-## By James Spencer
